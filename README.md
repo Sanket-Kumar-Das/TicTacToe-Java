@@ -21,38 +21,21 @@ Select the project folder
 Open SimpleTicTacToe.java
 Click Run ▶
 🖼️ Screenshot
-
 ![Screenshot 2024-07-03 193735](https://github.com/user-attachments/assets/47470c2b-9e30-4ce6-aebd-737e8d5c6153)
 
-
-
-
 📜 Technologies Used
-
 Java
-
 Swing (JFrame, JButton, JOptionPane)
-
 AWT (Font, GridLayout, ActionListener)
-
 📌 How to Play
-
 Click on any empty grid to place X or O.
-
 The game alternates turns between X and O.
-
 The winner is announced when three marks align (row, column, or diagonal).
-
 If the grid is full without a winner, the game declares a Draw.
-
 📌 Future Enhancements
-
 ✅ Add Player vs Computer (AI) mode
-
 ✅ Improve UI with colors and animations
-
 ✅ Keep track of scores
 
 📄 License
-
 This project is open-source under the MIT License.
