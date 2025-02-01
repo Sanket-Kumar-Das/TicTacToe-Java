@@ -30,21 +30,29 @@ Click Run ▶
 📜 Technologies Used
 
 Java
+
 Swing (JFrame, JButton, JOptionPane)
+
 AWT (Font, GridLayout, ActionListener)
 
 📌 How to Play
 
 Click on any empty grid to place X or O.
+
 The game alternates turns between X and O.
+
 The winner is announced when three marks align (row, column, or diagonal).
+
 If the grid is full without a winner, the game declares a Draw.
 
 📌 Future Enhancements
 
 ✅ Add Player vs Computer (AI) mode
+
 ✅ Improve UI with colors and animations
+
 ✅ Keep track of scores
 
 📄 License
+
 This project is open-source under the MIT License.
