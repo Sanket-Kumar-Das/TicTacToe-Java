@@ -11,9 +11,6 @@ A simple Tic Tac Toe game built using Java Swing. This project demonstrates GUI 
 🔧 Installation & Setup
 1️⃣ Clone the repository
 
-sh
-Copy
-Edit
 git clone https://github.com/Sanket-Kumar-Das/TicTacToe-Java.git
 2️⃣ Open the project in Eclipse
 
@@ -24,7 +21,8 @@ Select the project folder
 Open SimpleTicTacToe.java
 Click Run ▶
 🖼️ Screenshot
-(Add a screenshot of your game here!)
+![Screenshot 2024-07-03 193637](https://github.com/user-attachments/assets/a1dc6f94-79f9-4051-89c3-723bab659bab)
+
 
 📜 Technologies Used
 Java
